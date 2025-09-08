@@ -100,7 +100,6 @@
     }
     
     .pro {
-        border: 2px solid black;
         border-radius: 8px;
         position: relative;
         text-align: center;
@@ -441,4 +440,5 @@
         .foot {
             font-size: 12px;
         }
+
     }
